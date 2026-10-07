@@ -33,8 +33,8 @@ time.sleep(3)
 driver.find_element(By.NAME, "proceedToRetailCheckout").click()
 time.sleep(2)
 ```
-<img width="1917" height="1137" alt="Screenshot 2026-10-07 103930" src="https://github.com/user-attachments/assets/ad412662-2629-4958-83c1-8f8580ff9052" />
-<img width="1917" height="1127" alt="Screenshot 2026-10-07 103955" src="https://github.com/user-attachments/assets/f14bfae7-3517-482d-8d01-e369c52ac214" />
+<img width="1902" height="1007" alt="Screenshot 2026-10-07 112056" src="https://github.com/user-attachments/assets/4908bac3-bca9-4bea-9077-e1b697028e94" />
+<img width="1915" height="1013" alt="Screenshot 2026-10-07 112043" src="https://github.com/user-attachments/assets/35fc78c9-8787-485a-b8f4-7b131011e121" />
 
 
 
